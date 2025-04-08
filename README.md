@@ -34,4 +34,4 @@ Crea una aplicación que muestre un **listado de productos** (puedes usar un arr
 5. **Buenas Prácticas**
     - Código limpio, legible y organizado.
 6. **Rendimiento**
-    - Uso de las herramientas de react para evitar renderizados inecesarios.
+    - Uso de las herramientas de react para evitar renderizados innecesarios.
