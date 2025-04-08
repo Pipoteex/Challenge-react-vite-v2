@@ -35,8 +35,8 @@ function App() {
     });
 
     return (
-        <div className="min-h-screen p-4 bg-gray-100">
-            <h1 className="text-2xl font-bold mb-4">Mi Tienda</h1>
+        <div className="min-h-screen p-4 ">
+            <h1 className=" font-bold mb-4 bg-gray-500 text-red-100">Mi Tienda</h1>
 
             <div className="flex flex-col md:flex-row gap-4 mb-6">
                 <SearchBar onSearch={handleSearch} />
