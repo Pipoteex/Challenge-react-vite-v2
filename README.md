@@ -35,3 +35,13 @@ Crea una aplicación que muestre un **listado de productos** (puedes usar un arr
     - Código limpio, legible y organizado.
 6. **Rendimiento**
     - Uso de las herramientas de react para evitar renderizados innecesarios.
+
+## Datos de ayuda:
+const items = [
+  { id: 1, name: "Samsung Smartphone", category: "Electronics", price: 120000, availability: true },
+  { id: 2, name: "Basic White T-Shirt", category: "Clothing", price: 7500, availability: true },
+  { id: 3, name: "All Products", category: "All", price: 0, availability: true },
+  { id: 4, name: "Lenovo Laptop", category: "Electronics", price: 230000, availability: false },
+  { id: 5, name: "Winter Jacket", category: "Clothing", price: 18500, availability: true },
+  { id: 6, name: "Featured Product", category: "All", price: 9999, availability: false }
+];
